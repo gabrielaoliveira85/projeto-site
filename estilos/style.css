@@ -9,13 +9,14 @@ body{
 }
 
 main{
-    background-color: rgb(241, 145, 145) ;
-    width: 500px;
+    background-color: rgb(19, 17, 17) ;
+    width: 50px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(36, 34, 34);
 }
 
-img.lado{
-    float: right;
+img.tecnologiacriativa{
+    width: 10%;
+    float: left;
 }
