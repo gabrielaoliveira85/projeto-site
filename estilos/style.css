@@ -4,6 +4,7 @@
 }
 
 body{
+
     background-color: rgb(35, 17, 100);
 
 }
@@ -16,13 +17,27 @@ main{
     box-shadow: 3px 3px 5px rgb(36, 34, 34);
 }
 
-img.tecnologiacriativa{
+.titulo-principal{
+    padding-left: 1000px;
+    background-color: black;
+
+}
+
+#tecnologiacriativa{
     width: 5%;
     height: 75;
     box-align: right;
 }
 
-img.guardachuva{
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#guardachuva{
     width: 50%;
     height: 30; 
 
