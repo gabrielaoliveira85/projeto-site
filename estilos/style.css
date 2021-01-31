@@ -13,7 +13,7 @@ main{
     background-color: rgb(243, 233, 233) ;
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 100px;
     box-shadow: 5px 5px 5px rgb(36, 34, 34);
 }
 
@@ -30,16 +30,16 @@ main{
 }
 
 h2{
-    text-align: auto;
+    text-align: right;
 }
 
 p{
-    text-align: auto;
+    text-align: right;
 }
 
 #guardachuva{
-    width: 50%;
-    height: 100; 
-    padding: 50%;
+    width: 5%;
+    height: 10; 
+    padding: 5%;
 
 }
