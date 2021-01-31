@@ -5,12 +5,12 @@
 
 body{
 
-    background-color: rgb(35, 17, 100);
+    background-color: rgb(212, 205, 240);
 
 }
 
 main{
-    background-color: rgb(19, 17, 17) ;
+    background-color: rgb(243, 233, 233) ;
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -19,26 +19,27 @@ main{
 
 .titulo-principal{
     padding-left: 1000px;
-    background-color: black;
+    background-color: rgb(158, 14, 14);
 
 }
 
 #tecnologiacriativa{
     width: 5%;
-    height: 75;
+    height: 50;
     box-align: right;
 }
 
 h2{
-    text-align: center;
+    text-align: auto;
 }
 
 p{
-    text-align: center;
+    text-align: auto;
 }
 
 #guardachuva{
     width: 50%;
-    height: 30; 
+    height: 100; 
+    padding: 50%;
 
 }
