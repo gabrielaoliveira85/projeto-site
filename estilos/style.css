@@ -10,14 +10,20 @@ body{
 
 main{
     background-color: rgb(19, 17, 17) ;
-    width: 50px;
+    width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(36, 34, 34);
 }
 
-#tecnologiacriativa{
+img.tecnologiacriativa{
     width: 5%;
     height: 75;
     box-align: right;
+}
+
+img.guardachuva{
+    width: 50%;
+    height: 30; 
+
 }
